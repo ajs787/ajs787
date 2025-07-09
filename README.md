@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 🐸
 
 <!--
 **ajs787/ajs787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Audrey, a CS + CogSci student trying to make cool things. 
+I love content creation 🎥, coding 👩‍💻, reading 📙, tennis 🎾, and running 🏃‍♀️.
+
+💌 audreyshin23@gmail.com or ajs787@scarletmail.rutgers.edu
+
+
