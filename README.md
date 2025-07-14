@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Audrey, a CS and CogSci building cool things.
-I also like frogs.
+I also like frogs 🐸
 
 💌 audreyshin23@gmail.com or ajs787@scarletmail.rutgers.edu
 
