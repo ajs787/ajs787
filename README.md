@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Audrey, a CS and CogSci building cool things.
-I also like frogs 🐸
+I'm Audrey, a CS and CogSci student building cool things.
+I like frogs 🐸
 
 💌 audreyshin23@gmail.com or ajs787@scarletmail.rutgers.edu
 
