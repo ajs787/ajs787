@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hi im audrey! bomboclaat
+hi im audrey! i love building cool things
 
 💌 audreyshin23@gmail.com or ajs787@scarletmail.rutgers.edu
+🔷 https://www.linkedin.com/in/audrey-shin
 
 
