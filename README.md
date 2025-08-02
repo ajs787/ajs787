@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Junior at Rutgers University, studying Computer Science & Cognitive Science
+I'm a rising junior at Rutgers University, studying Computer Science & Cognitive Science
+I like building cool things!
 
 💌 audreyshin23@gmail.com or ajs787@scarletmail.rutgers.edu
 
