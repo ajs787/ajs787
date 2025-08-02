@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 hi im audrey! i love building cool things
 
 💌 audreyshin23@gmail.com or ajs787@scarletmail.rutgers.edu
-🔷 https://www.linkedin.com/in/audrey-shin
+
 
 
